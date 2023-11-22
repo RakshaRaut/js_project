@@ -1,4 +1,4 @@
-// alert('hey')
+
 let circle = document.querySelector('#circle');
 window.addEventListener('mousemove',function(details){
    console.log(details.clientX,details.clientY);
